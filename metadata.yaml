@@ -1,10 +1,16 @@
 _repo: Linda-Carlton-s-Ocean-Flight_48478
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 48478-h/images/cover.jpg
 creator:
   author:
     agent_name: Lavell, Edith
     gutenberg_agent_id: '26346'
     url: http://www.gutenberg.org/2009/agents/26346
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48478#Linda-Carlton-s-Ocean-Flight
 gutenberg_issued: '2015-03-13'
 gutenberg_type: Text
 identifiers:
